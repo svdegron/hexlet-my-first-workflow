@@ -1,5 +1,5 @@
 name: Say Hello
-run-name: ${{ github.actor }} is testing out Say Hello Actions ☺
+run-name: ${{ github.actor }} is testing out Say Hello Actions 🍺
 on: [push]
 jobs:
   Say-Hello-Actions:
